@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any hackathon or open-source project!
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kaushik-iyer-8aa347216/)
+
+
+[![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushik-Iyer)](https://github.com/Kaushik-Iyer/github-readme-stats)
