@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📚 I’m currently in my Third Year, pursuing my B.Tech degree
+- 🌱 I’m currently learning Ethereum, Smart Contracts, and Blockchain
+- 👯 I’m looking to collaborate on any hackathon or open-source project!
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kaushik-iyer-8aa347216/)
