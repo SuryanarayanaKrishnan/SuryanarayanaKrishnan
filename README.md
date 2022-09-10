@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 [![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushik-Iyer&show_icons=true&theme=synthwave)](https://github.com/Kaushik-Iyer/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushik-Iyer&layout=compact)](https://github.com/Kaushik-Iyer/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Kaushik-Iyer&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
