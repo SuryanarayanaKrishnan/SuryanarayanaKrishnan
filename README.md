@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Jokes Card](https://readme-jokes.vercel.app/api)
 - 📚 I’m currently in my Third Year, pursuing my B.Tech degree
 - 🌱 I’m currently learning Ethereum, Smart Contracts, and Blockchain
 - 👯 I’m looking to collaborate on any hackathon or open-source project!
