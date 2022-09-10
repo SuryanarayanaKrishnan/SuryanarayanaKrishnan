@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kaushik-iyer-8aa347216/)
 
 
-[![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushik-Iyer&show_icons=true)](https://github.com/Kaushik-Iyer/github-readme-stats)
+[![Kaushik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaushik-Iyer&show_icons=true&theme=synthwave)](https://github.com/Kaushik-Iyer/github-readme-stats)
