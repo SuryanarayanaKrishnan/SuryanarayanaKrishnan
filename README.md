@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Deep learning, React and Android development
 - 👯 I’m looking to collaborate on any hackathon or open-source project!
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Suryanarayana Krishnan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suryanarayana-krishnan-59b6971b4/)](https://www.linkedin.com/in/suryanarayana-krishnan-59b6971b4/)  
+- 📫 How to reach me: 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=f20200237@dubai.bits-pilani.ac.in&link=f20200237@dubai.bits-pilani.ac.in)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCKCBkcLfJZZKxQgstCPWjWzlcdhTGmhwSDSdhZPQxMJcsQgRWBMzsdDrXxTKlgPBCwRptSq)
 
 
