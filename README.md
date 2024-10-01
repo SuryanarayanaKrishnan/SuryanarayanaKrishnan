@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m interning at ESRI
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=f20200237@dubai.bits-pilani.ac.in&link=f20200237@dubai.bits-pilani.ac.in)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCKCBkcLfJZZKxQgstCPWjWzlcdhTGmhwSDSdhZPQxMJcsQgRWBMzsdDrXxTKlgPBCwRptSq)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white?link=f20200237@dubai.bits-pilani.ac.in&link=f20200237@dubai.bits-pilani.ac.in)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRpdDFCmBXdDZqDlhRzqZnlZDxwxsnJmwjTkmWWNhBhsGwvmSJqVtLTxLnftdWvrMjbzWGG)
 
 
 ## ⚡ Technologies
